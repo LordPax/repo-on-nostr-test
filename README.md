@@ -4,6 +4,16 @@
 
 Test nostr NIP-34
 
+## Url
+
+https://gitworkshop.dev/repo/test-ngit
+
+## Clone
+
+```
+git clone nostr://npub1wexup25szzmga9h9znr2v549ytk5c8kuvdnvxa9em58kr38wtrxsvpq0vc/test-ngit
+```
+
 ## Address
 
 ```
